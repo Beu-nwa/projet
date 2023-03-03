@@ -1,0 +1,5 @@
+.cardsDisplay .card{
+    display: flex;
+    margin: 15px;
+
+}

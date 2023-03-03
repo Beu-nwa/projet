@@ -1,0 +1,18 @@
+.formContainer{
+    border: 2px solid var(--darkblue);
+    border-radius: 10px;
+    background-color: var(--mediumblue);
+    color: white;
+    transition-duration: 0.5s;
+}
+
+.formContainer:hover{
+    transition-duration: 0.5s;
+    box-shadow: 0 0 15px 15px var(--darkblue05);
+}
+
+#changeIsActiveBtn{
+    border: 0px;
+    color: white;
+    background: var(--mediumblue);
+}
